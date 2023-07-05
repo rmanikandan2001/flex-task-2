@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.about-sec{
+	
+	height:650px;
+	width:1350px;
+	color:white;
+	background-image:url("images/eye.jpg");
+	background-size:covor;
+	
+	
+	
+}
+
+.container{
+	
+	font-size:125%;
+	background:rgb(0,0,0);
+	background:rgba(0,0,0,0.5);
+	height:650px;
+}
+h1{
+	font-family: 'Raleway', sans-serif;
+	color:white;
+	padding:150px  10px 0px 75px;
+}
+
+h5{
+	font-family: 'Raleway', sans-serif;
+	color:white;
+	padding:10px  10px 10px 75px;
+}
+
+a{
+	font-family: 'Raleway', sans-serif;
+	margin:15px 10px 0px 75px;
+	color:white;
+	
+	text-decoration:none;
+	padding:10px 25px 10px 25px;
+	border-radius:20px 20px 20px 20px;
+	outline-style:solid;
+	outline-width:2px;
+}
+	
